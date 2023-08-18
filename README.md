@@ -1,2 +1,2 @@
-# tg_supabot
-My bot for somethings
+# aiogram template
+your bot, my template
